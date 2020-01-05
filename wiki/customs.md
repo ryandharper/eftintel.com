@@ -1,3 +1,3 @@
 # CUSTOMS
 
-![Customs](/assets/images/maps/customs/customs.png)
+![Customs](/assets/images/maps/customs/CUSTOMS.png)
