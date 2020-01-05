@@ -6,5 +6,7 @@ redirect_from: "/"
 
 A community driven source for the best EfT Maps
 
-- [Customs](/customs)
-- [Interchange](/interchange)
+- [CUSTOMS](/customs)
+- [INTERCHANGE](/interchange)
+- [FACTORY](/factory)
+- [RESERVE](/reserve)
