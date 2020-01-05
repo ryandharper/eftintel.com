@@ -2,4 +2,4 @@
 redirect_from: "/"
 ---
 
-Escape from Tarkov : Intel
+# Escape from Tarkov : Intel
