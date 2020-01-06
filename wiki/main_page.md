@@ -6,7 +6,7 @@ redirect_from: "/"
 
 A community driven source for the best EfT Maps
 
-![Tarkov](/assets/images/maps/tarkov/tarkov.webp)
+![Tarkov](/assets/images/maps/tarkov/tarkov.png)
 
 - [CUSTOMS](/customs)
 - [INTERCHANGE](/interchange)
