@@ -25,7 +25,7 @@ git_branch: "master"
 # (string) Url of logo image, it can be full, absolute or relative.
 logo_url: https://www.escapefromtarkov.com/themes/eft/images/eft_logo_promo.jpg
 # (string) The UA-XXXXX-Y code from google analytic to enable GA on your wiki
-google_analytics: 
+google_analytics: UA-122584343-2
 # (string) folder where wiki pages are stored, it's needed for tool buttons
 wiki_folder: wiki
 # (boolean) if you're using github wiki as submodule then this config
